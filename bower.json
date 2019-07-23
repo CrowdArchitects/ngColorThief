@@ -1,6 +1,6 @@
 {
-  "name": "ngColorThief",
-  "version": "0.2.0",
+  "name": "ngColorThiefCrowd",
+  "version": "0.2.1",
   "main": "./angular-colorthief.js",
   "authors": [
     "Ian Murray <me@ianmurray.me>"
@@ -19,6 +19,6 @@
     "tests"
   ],
   "dependencies": {
-    "color-thief": "*"
+    "color-thief": "v2.0"
   }
 }
